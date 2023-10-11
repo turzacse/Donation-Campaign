@@ -1,0 +1,144 @@
+[
+    {
+      "id": 1,
+      "Picture": " https://i.ibb.co/2N9NtvW/c-1.jpg ",
+      "Title": "Scholarships for Students",
+      "Category": " Education",
+      "Category_bg": "#b3dff5",
+      "Card_bg": "#ecf0f1",
+      "Text_button_bg": "#2ecc71",
+      "Description": "Scholarships for underprivileged students are vital tools in addressing educational inequalities. These scholarships provide financial support to individuals from economically disadvantaged backgrounds, ensuring they have the opportunity to pursue higher education. Often merit-based or need-based, they cover tuition, textbooks, and other educational expenses, reducing the financial barriers that can limit access to quality education. These scholarships not only alleviate the burden of student debt but also empower underprivileged students to unlock their potential, achieve their academic aspirations, and break the cycle of poverty. By bridging the financial gap, they foster social mobility and promote a more equitable society where talent and determination triumph over economic constraints.",
+      "Price": "$199.99"
+    },
+    {
+      "id": 2,
+      "Picture": " https://i.ibb.co/XXyNpgC/c-2.jpg ",
+      "Title": "Clean Water for Communities ",
+      "Category": "Water & Food",
+      "Category_bg": "#f0fa02",
+      "Card_bg": "#f0f2bd",
+      "Text_button_bg": "#9b59b6",
+      "Description": "Clean water for communities is a fundamental necessity for human well-being and development. It involves ensuring access to safe and potable water sources for residents in both urban and rural areas. This essential resource is vital for drinking, sanitation, hygiene, agriculture, and industrial activities. Clean water initiatives often encompass infrastructure development, water purification, and education on water conservation and hygiene practices. Access to clean water enhances health, reduces waterborne diseases, fosters economic growth, and contributes to overall community prosperity. Addressing water quality and availability challenges is crucial for building sustainable and thriving communities, ensuring a healthier and more equitable future for all.",
+      "Price": "$49.99"
+    },
+    
+  {
+      "id": 3,
+      "Picture": " https://i.ibb.co/80M94M8/c-3.jpg ",
+      "Title": "Fighting Childhood Hunger",
+      "Category": "Water & Food",
+      "Category_bg": "#f0ecce",
+      "Card_bg": "#d5dbdb",
+      "Text_button_bg": "#e67e22",
+      "Description": "Fighting childhood hunger is a critical mission aimed at ensuring that every child has access to adequate and nutritious food. This effort encompasses various strategies such as food assistance programs, community outreach, and education. Childhood hunger can have severe and lasting consequences, affecting physical and cognitive development. By providing nourishing meals and addressing food insecurity, we promote healthy growth, improve educational outcomes, and enhance overall well-being. It's a crucial step towards breaking the cycle of poverty and creating a brighter future for our children, where they can thrive and reach their full potential regardless of their socioeconomic background.",
+      "Price": "$79.99"
+    },
+    {
+      "id": 4,
+      "Picture": " https://i.ibb.co/mbHfGzF/c-4.jpg ",
+      "Title": "Medical Supplies for Rural Clinics",
+      "Category": "Health",
+      "Category_bg": "#b3dff5",
+      "Card_bg": "#ecf0f1",
+      "Text_button_bg": "#2ecc71",
+      "Description": "Supplying rural clinics with essential medical equipment and resources is a vital initiative that aims to bridge healthcare disparities in underserved areas. These medical supplies encompass diagnostic tools, medications, protective gear, and facility infrastructure improvements. Access to adequate medical resources in rural clinics ensures that residents in remote regions receive timely and quality healthcare. This not only addresses immediate health needs but also prevents diseases from spreading, improves overall health outcomes, and enhances the resilience of these communities. By providing essential medical supplies, we contribute to creating a healthier, more equitable society where everyone, regardless of their location, can access essential healthcare services.",
+      "Price": "$29.99"
+    },
+    
+  {
+      "id": 5,
+      "Picture": " https://i.ibb.co/Cwd21LF/c-5.png ",
+      "Title": "Empowering Women in Business",
+      "Category": "Gender Equality",
+      "Category_bg": "#f2ba9d",
+      "Card_bg": "#f7d8cb",
+      "Text_button_bg": "#9b59b6",
+      "Description": "Empowering women in business is a transformative endeavor that involves providing women with the tools, resources, and opportunities they need to succeed in entrepreneurship and leadership roles. This empowerment comes through mentorship, access to capital, training, networking, and support systems that foster their professional growth. Gender equality in business not only enhances individual women's economic independence but also drives economic growth and innovation at a societal level. By breaking down barriers and biases, empowering women in business contributes to a more inclusive and diverse corporate landscape, strengthening communities, and fostering a more equitable and prosperous global economy.",
+      "Price": "$149.99"
+    },
+    {
+      "id": 6,
+      "Picture": " https://i.ibb.co/b2V2DRQ/c-6.jpg ",
+      "Title": "Disaster Relief and Recovery",
+      "Category": "Environment",
+      "Category_bg": "#f0ecce",
+      "Card_bg": "#d5dbdb",
+      "Text_button_bg": "#e67e22",
+      "Description": "Disaster relief and recovery are essential humanitarian efforts aimed at helping communities affected by natural or man-made disasters rebuild their lives. Relief activities involve the immediate response to provide emergency aid, including food, shelter, and medical care, to those in crisis. Recovery efforts focus on the longer-term process of rehabilitation and reconstruction, helping communities regain stability and resilience. This includes rebuilding infrastructure, restoring livelihoods, and addressing trauma. Effective disaster relief and recovery efforts not only alleviate suffering but also promote community resilience, preparedness, and the capacity to withstand future disasters, ultimately fostering a path towards recovery and a more resilient future.",
+      "Price": "$39.99"
+    },
+    
+  
+  {
+      "id": 7,
+      "Picture": "https://i.ibb.co/GcwzpgM/20.webp",
+      "Title": "Digital Learning for Rural Schools",
+      "Category": "Education",
+      "Category_bg": "#b3dff5",
+      "Card_bg": "#ecf0f1",
+      "Text_button_bg": "#2ecc71",
+      "Description": "Digital Learning for Rural Schools is a transformative initiative aimed at bridging the educational gap in remote and underserved communities. By introducing modern technology and digital resources into rural classrooms, this program empowers students with access to a world of knowledge. It equips schools with digital infrastructure, enabling interactive and engaging learning experiences. From online educational platforms to e-books and virtual classrooms, this initiative revolutionizes education delivery, providing quality learning opportunities for students who would otherwise have limited access. Through Digital Learning for Rural Schools, we are fostering a brighter future, ensuring that no child is left behind in the digital age.",
+      "Price": "$249.99"
+    },
+    {
+      "id": 8,
+      "Picture": " https://i.ibb.co/2nMRT1L/c-8.jpg ",
+      "Title": "Reforestation and Conservation",
+      "Category": "Environment",
+      "Category_bg": "#f2ba9d",
+      "Card_bg": "#f7d8cb",
+      "Text_button_bg": "#9b59b6",
+      "Description": "Reforestation and conservation initiatives are fundamental to preserving our planet's ecological health. Reforestation involves replanting trees in deforested or degraded areas, mitigating the impacts of climate change and fostering biodiversity. Conservation efforts encompass protecting existing ecosystems, wildlife habitats, and natural resources. By combating deforestation, habitat destruction, and unsustainable practices, these efforts help maintain ecological balance, improve air and water quality, and safeguard endangered species. They also play a pivotal role in reducing carbon emissions, mitigating climate change, and ensuring a sustainable future for both nature and humanity, emphasizing the importance of responsible stewardship of our planet's precious resources.",
+      "Price": "$59.99"
+    },
+    
+  
+  
+  {
+      "id": 9,
+      "Picture": " https://i.ibb.co/9N8SX3p/c-9.jpg ",
+      "Title": "Shelter for Homeless Families",
+      "Category": " Housing",
+      "Category_bg": "#f0ecce",
+      "Card_bg": "#d5dbdb",
+      "Text_button_bg": "#e67e22",
+      "Description": "Shelter for homeless families is a compassionate and crucial endeavor that provides a safe haven for those experiencing housing insecurity. These shelters offer temporary accommodations, along with support services like counseling, job assistance, and child care. They aim to stabilize and empower homeless families, helping them regain independence and transition to permanent housing. Beyond meeting immediate needs, such shelters provide a sense of security, stability, and hope to families in crisis, breaking the cycle of homelessness and working towards a more equitable society where every family has a place to call home.",
+      "Price": "$89.99"
+    },
+    {
+      "id": 10,
+      "Picture": "https://i.ibb.co/xjSRqhM/c-10.png ",
+      "Title": "Cancer Cure Research Fund",
+      "Category": "Research",
+      "Category_bg": "#b3dff5",
+      "Card_bg": "#ecf0f1",
+      "Text_button_bg": "#2ecc71",
+      "Description": "The Cancer Cure Research Fund is a vital initiative dedicated to advancing scientific efforts in the fight against cancer. This fund supports groundbreaking research, innovative treatments, and the development of therapies aimed at curing various forms of cancer. It fosters collaboration among scientists, accelerates discoveries, and promotes the translation of laboratory findings into effective clinical interventions. By raising awareness and funding, this research fund plays a pivotal role in reducing the burden of cancer, improving patient outcomes, and ultimately working toward a future where cancer is no longer a life-threatening disease, offering hope to millions affected by this devastating illness.",
+      "Price": "$34.99"
+    },
+    
+  
+  {
+      "id": 11,
+      "Picture": "https://i.ibb.co/ZfJYt4S/c-11.jpg ",
+      "Title": "Senior Citizen Community Suppo",
+      "Category": "Health",
+      "Category_bg": "#f2ba9d",
+      "Card_bg": "#f7d8cb",
+      "Text_button_bg": "#9b59b6",
+      "Description": "Senior Citizen Community Support initiatives are essential programs designed to enhance the well-being of elderly individuals. These services encompass various forms of assistance, including healthcare access, social engagement, transportation, and home care. By providing a supportive environment, seniors can maintain their independence, physical health, and mental well-being as they age. These programs also combat isolation, ensuring that older adults remain connected to their communities, fostering a sense of belonging and dignity in their later years. Senior citizen community support efforts promote active aging and underscore the importance of respecting and caring for our older generations.",
+      "Price": "$139.99"
+    },
+    {
+      "id": 12,
+      "Picture": "https://i.ibb.co/hZcT9Yr/c-12.jpg ",
+      "Title": "Preserving Cultural Heritage",
+      "Category": "Research",
+      "Category_bg": "#f0ecce",
+      "Card_bg": "#d5dbdb",
+      "Text_button_bg": "#e67e22",
+      "Description": "Preserving cultural heritage is a vital mission to safeguard humanity's shared history, traditions, and artistic achievements. It involves the protection and conservation of cultural artifacts, historical sites, and traditional practices. By maintaining and passing down this heritage to future generations, we ensure that diverse cultures and their unique contributions to society are celebrated and remembered. Preservation efforts also bolster tourism, local economies, and a sense of identity among communities. Furthermore, they promote cross-cultural understanding and appreciation, fostering a more enriched and interconnected global society that cherishes the tapestry of human heritage.",
+      "Price": "$44.99"
+    }
+  ]
+  
